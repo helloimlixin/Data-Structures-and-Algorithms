@@ -32,6 +32,6 @@ Suppose that you been offered the opportunity to invest in the Volatile Chemical
 
 You might think that you can always maximize profit by either buying at the lowest price or selling at the highest price. For example, in Figure 4.1, we would maximize profit by buying at the lowest price, after day 7. If this strategy always worked, then it would be easy to determine how to maximize profit: find the highest and lowest prices, and then work left from the highest price to find the lowest prior price, work right from the lowest price to find the highest later price, and take the pair with the greater difference. Figure 4.2 shows a simple counterexample, 
 
-![image-20190511190240489](README.assets/image-20190511190240489.png)
+![image-20190511190912338](README.assets/image-20190511190912338.png)
 
 
