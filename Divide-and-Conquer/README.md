@@ -34,4 +34,13 @@ You might think that you can always maximize profit by either buying at the lowe
 
 ![image-20190511191032323](README.assets/image-20190511191032323.png)
 
+![image-20190511191339830](README.assets/image-20190511191339830.png)
+
+demonstrating that the maximum profit sometimes comes neither by buying at the lowest price nor by selling at the highest price.
+
+#### A Brute-Force Solution
+
+#### A Transformation
+
+#### A Solution Using Divide-and-Conquer
 
