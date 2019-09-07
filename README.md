@@ -4,7 +4,6 @@ Repository for implementations of a bunch of coding problems. Topics include:
 - [ ] [Divide and Conquer](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer)
   - [x] [Maximum Subarray Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer/src/Problem1_MaximumSubarray) :trollface:
   - [ ] [Matrix MatrixMultiplication Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer/src/Problem2_MatrixMultiplication)
-- [ ] Binary Search
 - [ ] Sorting
 - [ ] Hashing
 - [ ] [Dynamic Programming](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming)
