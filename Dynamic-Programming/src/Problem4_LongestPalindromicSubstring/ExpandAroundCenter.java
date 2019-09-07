@@ -16,7 +16,7 @@ class ExpandAroundCenter {
      *
      * <h2>Complexity Analysis</h2>
      * - Time Complexity: O(n^2).
-     * - Space Complexity: O(1)
+     * - Space Complexity: O(1).
      * @param s input string to find the longest palindrome
      * @return the longest palindrome
      */
@@ -56,6 +56,7 @@ class ExpandAroundCenter {
         int start = left, end = right + 1;
         int len = 0;
         while (left >= 0 && right < str.length() && str.charAt(left) == str.charAt(right)) {
+            // Update length if the expanded substring is a palindrome.
             if (left == 0 && right < str.length() - 1 && str.charAt(left) == str.charAt(right)) {
                 len = right - left + 1;
             }
