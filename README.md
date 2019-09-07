@@ -1,8 +1,8 @@
-# Data Structures and Algorithms :sunglasses: :smiling_imp: :alien: :vulcan_salute: :trollface: :octocat:
+# Data Structures and Algorithms :sunglasses: :smiling_imp: :alien: :vulcan_salute:
 Repository for implementations of a bunch of coding problems. Topics include:
 
 - [ ] [Divide and Conquer](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer)
-  - [x] [Maximum Subarray Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer/src/Problem1_MaximumSubarray)
+  - [x] [Maximum Subarray Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer/src/Problem1_MaximumSubarray) :trollface:
   - [ ] [Matrix MatrixMultiplication Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer/src/Problem2_MatrixMultiplication)
 - [ ] Binary Search
 - [ ] Sorting
@@ -10,10 +10,10 @@ Repository for implementations of a bunch of coding problems. Topics include:
 - [ ] [Dynamic Programming](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming)
   - [ ] Fibonacci Problem
   - [ ] Edit Distance Problem
-  - [x] [Rod Cutting Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem1_RodCutting)
+  - [x] [Rod Cutting Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem1_RodCutting) :trollface:
   - [ ] [Sequence Matching Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem2_SequenceMatching)
-  - [x] [Kadane's Algorithm for Maximum Subarray problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem3_KadaneAlgorithm)
-  - [ ] [Longest Palindromic Substring Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring)
+  - [x] [Kadane's Algorithm for Maximum Subarray problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem3_KadaneAlgorithm) :trollface:
+  - [x] [Longest Palindromic Substring Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring)
   - [ ] Matrix-Chain Multiplication
   - [ ] Longest Common Subsequence Problem
   - [ ] Optimal Binary Search Tree Problem
