@@ -57,15 +57,8 @@ class ExpandAroundCenter {
         int len = 0;
         while (left >= 0 && right < str.length() && str.charAt(left) == str.charAt(right)) {
             // Update length if the expanded substring is a palindrome.
-            if (left == 0 && right < str.length() - 1 && str.charAt(left) == str.charAt(right)) {
-                len = right - left + 1;
-            }
-            if (left > 0 && right < str.length() - 1 && str.charAt(left) == str.charAt(right)) {
-                len = right - left + 1;
-            }
-            if (right == str.length() - 1 && left >= 0 && str.charAt(left) == str.charAt(right)) {
-                len = right - left + 1;
-            }
+            len = right - left + 1;
+
             if (len > palindromeLen) {
                 palindromeLen = len;
                 start = left;

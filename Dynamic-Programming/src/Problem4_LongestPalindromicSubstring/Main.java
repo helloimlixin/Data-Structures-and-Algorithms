@@ -9,7 +9,7 @@ public class Main {
         while (scan.hasNext()) {
             String s = scan.nextLine();
 //            DynamicProgamming dynamicProgamming = new DynamicProgamming();
-            System.out.println(ExpandAroundCenter.longestPalindrome(s));
+            System.out.println(DynamicProgamming.longestPalindrome(s));
         }
         scan.close();
     }
