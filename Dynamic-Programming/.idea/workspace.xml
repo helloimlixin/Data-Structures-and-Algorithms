@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="060b6149-a103-4d1f-ba30-53bf5521959c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="060b6149-a103-4d1f-ba30-53bf5521959c" name="Default Changelist" comment="Added Dynamic Programming Solution to the Longest Palindromic Substring Problem." />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,16 +50,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
+            <state relative-caret-position="630">
               <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
@@ -76,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -155,13 +151,11 @@
               <item name="Dynamic-Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dynamic-Programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Problem3_KadaneAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem4_LongestPalindromicSubstring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dynamic-Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dynamic-Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Problem4_LongestPalindromicSubstring" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -194,21 +188,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem3_KadaneAlgorithm.Main" />
-      <module name="Dynamic-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Problem3_KadaneAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem4_LongestPalindromicSubstring.Main" />
       <module name="Dynamic-Programming" />
       <extension name="coverage">
@@ -221,23 +202,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem1_RodCutting.Main" />
-      <module name="Dynamic-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Problem1_RodCutting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -252,7 +218,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567523091471</updated>
-      <workItem from="1567523092855" duration="24094000" />
+      <workItem from="1567523092855" duration="24403000" />
     </task>
     <task id="LOCAL-00001" summary="Added Rod Cutting Problem.">
       <created>1567538404826</created>
@@ -279,11 +245,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24094000" />
+    <option name="totallyTimeSpent" value="24403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
@@ -300,7 +265,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991462" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,20 +313,6 @@
     <MESSAGE value="Added Longest Palindromic Substring Problem." />
     <option name="LAST_COMMIT_MESSAGE" value="Added Longest Palindromic Substring Problem." />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java</url>
-          <line>22</line>
-          <properties class="Problem4_LongestPalindromicSubstring.DynamicProgamming" method="longestPalindrome">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Problem1_RodCutting/BruteForceSolution.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -408,7 +359,14 @@
     <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -416,13 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
         </state>
       </provider>
     </entry>
