@@ -3,7 +3,7 @@ Repository for implementations of a bunch of coding problems. Topics include:
 
 - [Divide and Conquer](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer)
   - [Maximum Subarray Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer/src/Problem1_MaximumSubarray)
-  - Matrix MatrixMultiplication Problem
+  - [Matrix MatrixMultiplication Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer/src/Problem2_MatrixMultiplication)
 - [Dynamic Programming](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming)
   - [Rod Cutting Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem1_RodCutting)
   - [Sequence Matching Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem2_SequenceMatching)
