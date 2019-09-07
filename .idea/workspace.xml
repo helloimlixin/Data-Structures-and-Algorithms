@@ -39,13 +39,13 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="84">
-                <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <first_editor relative-caret-position="210">
+                <caret line="10" column="179" selection-start-line="10" selection-start-column="179" selection-end-line="10" selection-end-column="179" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState>
                   <previewPanelState version="2.8.4">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:170.50000141}}</jsState>
+                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:193.99999538}}</jsState>
                   </previewPanelState>
                 </markdownNavigatorState>
               </second_editor>
@@ -261,7 +261,7 @@
       <workItem from="1557798563507" duration="242000" />
       <workItem from="1559184987399" duration="8039000" />
       <workItem from="1567522837693" duration="8473000" />
-      <workItem from="1567850730394" duration="343000" />
+      <workItem from="1567850730394" duration="617000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1557614574437</created>
@@ -274,11 +274,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27262000" />
+    <option name="totallyTimeSpent" value="27536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17338218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -365,13 +364,13 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="84">
-            <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="179" selection-start-line="10" selection-start-column="179" selection-end-line="10" selection-end-column="179" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState>
               <previewPanelState version="2.8.4">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:170.50000141}}</jsState>
+                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:193.99999538}}</jsState>
               </previewPanelState>
             </markdownNavigatorState>
           </second_editor>
