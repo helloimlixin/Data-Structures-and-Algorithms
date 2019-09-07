@@ -1,4 +1,4 @@
-# Data Structures and Algorithms :trollface: :octocat: :sunglasses: :smiling_imp: :alien: :vulcan_salute:
+# Data Structures and Algorithms  :trollface: :octocat: :sunglasses: :smiling_imp: :alien: :vulcan_salute:
 Repository for implementations of a bunch of coding problems. Topics include:
 
 - [ ] [Divide and Conquer](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer)
