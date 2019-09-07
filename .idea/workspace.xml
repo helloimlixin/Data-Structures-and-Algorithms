@@ -40,7 +40,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="56" selection-start-column="56" selection-end-column="56" />
+                <caret column="33" selection-start-column="33" selection-end-column="33" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState>
@@ -295,7 +295,7 @@
       <workItem from="1557798563507" duration="242000" />
       <workItem from="1559184987399" duration="8039000" />
       <workItem from="1567522837693" duration="8473000" />
-      <workItem from="1567850730394" duration="2299000" />
+      <workItem from="1567850730394" duration="2553000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1557614574437</created>
@@ -308,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29218000" />
+    <option name="totallyTimeSpent" value="29472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -330,7 +330,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32977587" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32977587" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32977587" />
@@ -419,7 +419,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="56" selection-start-column="56" selection-end-column="56" />
+            <caret column="33" selection-start-column="33" selection-end-column="33" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState>
