@@ -1,4 +1,4 @@
-# Data Structures and Algorithms :trollface: :trollface: :trollface: :trollface: :trollface:
+# Data Structures and Algorithms :trollface:
 Repository for implementations of a bunch of coding problems. Topics include:
 
 - [ ] [Divide and Conquer](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Divide-and-Conquer)
