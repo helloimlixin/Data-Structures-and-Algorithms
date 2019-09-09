@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="359b6f55-5350-43a8-8e0b-6f3f7a0ba989" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Dynamic-Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/out/production/Dynamic-Programming/Problem4_LongestPalindromicSubstring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/out/production/Dynamic-Programming/Problem4_LongestPalindromicSubstring/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/out/production/Dynamic-Programming/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/out/production/Dynamic-Programming/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Divide-and-Conquer/target/" />
@@ -58,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -77,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -284,7 +281,7 @@
       <workItem from="1567850730394" duration="3037000" />
       <workItem from="1567855600541" duration="604000" />
       <workItem from="1568024894402" duration="231000" />
-      <workItem from="1568051234777" duration="1463000" />
+      <workItem from="1568051234777" duration="1494000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1557614574437</created>
@@ -297,13 +294,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32254000" />
+    <option name="totallyTimeSpent" value="32285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25457877" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25457877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" weight="0.32957393" />
       <window_info id="Designer" order="3" />
@@ -319,7 +315,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32977587" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32977587" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32977587" />
@@ -406,7 +402,7 @@
     <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -426,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
