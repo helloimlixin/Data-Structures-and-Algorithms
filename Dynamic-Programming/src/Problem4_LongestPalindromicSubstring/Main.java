@@ -20,7 +20,7 @@ public class Main {
         System.out.println("======================");
         System.out.println("Manacher's Algorithm");
         long manacherStart = System.nanoTime();
-        String manacherResult = ManacherAlgorithm.longestPalindrome(testStr);
+        String manacherResult = ManacherAlgorithm.longestPalindrome(smallTest);
         long manacherEnd = System.nanoTime();
         System.out.println("Elapsed time: " + (manacherEnd - manacherStart));
         System.out.println("Result: " + manacherResult);

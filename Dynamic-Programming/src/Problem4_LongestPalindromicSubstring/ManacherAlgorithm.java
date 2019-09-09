@@ -44,10 +44,11 @@ class ManacherAlgorithm {
     }
 
     /**
+     * <h2>Helper class for preprocessing.</h2>
      * Preprocess string str into a char array.
-     * For example, if `s = "abaabac"`, then the resulting char array `chars = "^#a#b#a#a#b#a#c#@"`,
-     * where "#" are interleaved symbol to avoid even/odd-Length palindromes uniformly, while "^" and "@" are
-     * prepended and appended to each end to avoid bounds checking.
+     * For example, if `s = "abaabac"`, then the resulting char array `chars = "$#a#b#a#a#b#a#c#@"`,
+     * where "#" are interleaved symbol to avoid even/odd-Length palindromes uniformly, while "$" and "@" are
+     * prepended and appended to each end to avoid bounds checking (they must be different!).
      * @param str input string to be processed
      * @return processed string with "#"'s
      */
@@ -55,7 +56,7 @@ class ManacherAlgorithm {
         int n = str.length();
         // Here we use char arrays for speed.
         char[] chars = new char[2 * n + 3];
-        chars[0] = '^'; // this has to be XOR, still don't know why :(
+        chars[0] = '$';
         chars[2 * n + 2] = '@';
         for (int i = 0; i < n; i++) {
             chars[2 * i + 1] = '#';
