@@ -1,6 +1,16 @@
 package Problem4_LongestPalindromicSubstring;
 
+/**
+ * <h1>Class for Manacher's Algorithm</h1>
+ *
+ * @author xinli
+ */
 class ManacherAlgorithm {
+    /**
+     * <h2>Main method for finding the longest palindromic substring.</h2>
+     * @param s input string
+     * @return the longest palindromic substring
+     */
     static String longestPalindrome(String s) {
         char[] processedStr = preProcessing(s);
         int N = processedStr.length;
@@ -35,8 +45,8 @@ class ManacherAlgorithm {
 
     /**
      * Preprocess string str into a char array.
-     * For example, if `s = "abaabac"`, then the resulting char array `chars = "@#a#b#a#a#b#a#c#@"`,
-     * where "#" are interleaved symbol to avoid even/odd-Length palindromes uniformly, and "@" are
+     * For example, if `s = "abaabac"`, then the resulting char array `chars = "^#a#b#a#a#b#a#c#@"`,
+     * where "#" are interleaved symbol to avoid even/odd-Length palindromes uniformly, while "^" and "@" are
      * prepended and appended to each end to avoid bounds checking.
      * @param str input string to be processed
      * @return processed string with "#"'s
@@ -45,7 +55,7 @@ class ManacherAlgorithm {
         int n = str.length();
         // Here we use char arrays for speed.
         char[] chars = new char[2 * n + 3];
-        chars[0] = '^';
+        chars[0] = '^'; // this has to be XOR, still don't know why :(
         chars[2 * n + 2] = '@';
         for (int i = 0; i < n; i++) {
             chars[2 * i + 1] = '#';
