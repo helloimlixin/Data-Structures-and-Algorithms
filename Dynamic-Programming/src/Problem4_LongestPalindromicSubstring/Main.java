@@ -1,16 +1,25 @@
 package Problem4_LongestPalindromicSubstring;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        System.out.println("Please enter a string: ");
-        while (scan.hasNext()) {
-            String s = scan.nextLine();
-//            DynamicProgamming dynamicProgamming = new DynamicProgamming();
-            System.out.println(DynamicProgamming.longestPalindrome(s));
-        }
-        scan.close();
+        String testStr = "asdfghjkllkjhgfdsazxcvbnmmnbvcxzqwertyuioppoiuytrewqqwertyuioplkjhgfdsazxcvbnmmnbvcxzasdfghjklpoiuytrewqasdfghjkllkjhgfdsazxcvbnmmnbvcxzqwertyuioppoiuytrewqqwertyuioplkjhgfdsazxcvbnmmnbvcxzasdfghjklpoiuytrewqasdfghjkllkjhgfdsazxcvbnmmnbvcxzqwertyuioppoiuytrewqqwertyuioplkjhgfdsazxcvbnmmnbvcxzasdfghjklpoiuytrewqasdfghjkllkjhgfdsazxcvbnmmnbvcxzqwertyuioppoiuytrewqqwertyuioplkjhgfdsazxcvbnmmnbvcxzasdfghjklpoiuytrewq";
+        System.out.println("Dynamic Programming Approach");
+        long dpStart = System.nanoTime();
+        System.out.println(DynamicProgamming.longestPalindrome(testStr));
+        long dpEnd = System.nanoTime();
+        System.out.println("Elapsed time: " + (dpEnd - dpStart));
+        System.out.println("======================");
+        System.out.println("Expand Around Center Approach");
+        long expandStart = System.nanoTime();
+        System.out.println(ExpandAroundCenter.longestPalindrome(testStr));
+        long expandEnd = System.nanoTime();
+        System.out.println("Elapsed time: " + (expandEnd - expandStart));
+        System.out.println("======================");
+        System.out.println("Manacher's Algorithm");
+        long manacherStart = System.nanoTime();
+        System.out.println(ManacherAlgorithm.longestPalindrome(testStr));
+        long manacherEnd = System.nanoTime();
+        System.out.println("Elapsed time: " + (manacherEnd - manacherStart));
+        System.out.println("======================");
     }
 }
