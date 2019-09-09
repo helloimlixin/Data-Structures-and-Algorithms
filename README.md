@@ -12,7 +12,7 @@ Repository for implementations of a bunch of coding problems. Topics include:
   - [x] [Rod Cutting Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem1_RodCutting) :trollface:
   - [ ] [Sequence Matching Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem2_SequenceMatching)
   - [x] [Kadane's Algorithm for Maximum Subarray problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem3_KadaneAlgorithm) :trollface:
-  - [x] [Longest Palindromic Substring Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring)
+  - [x] [Longest Palindromic Substring Problem](https://github.com/helloimlixin/Data-Structures-and-Algorithms/tree/master/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring) :confused:
   - [ ] Matrix-Chain Multiplication
   - [ ] Longest Common Subsequence Problem
   - [ ] Optimal Binary Search Tree Problem
