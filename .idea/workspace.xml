@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="359b6f55-5350-43a8-8e0b-6f3f7a0ba989" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Dynamic-Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/out/production/Dynamic-Programming/Problem4_LongestPalindromicSubstring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/out/production/Dynamic-Programming/Problem4_LongestPalindromicSubstring/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Divide-and-Conquer/target/" />
@@ -73,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="315">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
@@ -281,7 +282,7 @@
       <workItem from="1567850730394" duration="3037000" />
       <workItem from="1567855600541" duration="604000" />
       <workItem from="1568024894402" duration="231000" />
-      <workItem from="1568051234777" duration="1494000" />
+      <workItem from="1568051234777" duration="1808000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1557614574437</created>
@@ -294,10 +295,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32285000" />
+    <option name="totallyTimeSpent" value="32599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25457877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -401,7 +403,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="315">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
