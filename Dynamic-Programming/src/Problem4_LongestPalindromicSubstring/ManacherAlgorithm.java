@@ -2,7 +2,13 @@ package Problem4_LongestPalindromicSubstring;
 
 /**
  * <h1>Class for Manacher's Algorithm</h1>
- *
+ * <p>
+ *     This algorithm can be thought as an optimization over the `ExpandAroundCenter` algorithm, where
+ *     we avoid checking the same palindrome over and over again as we do in the `ExpandAroundCenter` algorithm.
+ * </p>
+ * <h2>Complexity Analysis</h2>
+ * - Time Complexity: O(n).
+ * - Space Complexity: O(1).
  * @author xinli
  */
 class ManacherAlgorithm {
@@ -45,10 +51,12 @@ class ManacherAlgorithm {
 
     /**
      * <h2>Helper class for preprocessing.</h2>
-     * Preprocess string str into a char array.
-     * For example, if `s = "abaabac"`, then the resulting char array `chars = "$#a#b#a#a#b#a#c#@"`,
-     * where "#" are interleaved symbol to avoid even/odd-Length palindromes uniformly, while "$" and "@" are
-     * prepended and appended to each end to avoid bounds checking (they must be different!).
+     * <p>
+     *     Preprocess string str into a char array.
+     *     For example, if `s = "abaabac"`, then the resulting char array `chars = "$#a#b#a#a#b#a#c#@"`,
+     *     where "#" are interleaved symbol to avoid even/odd-Length palindromes uniformly, while "$" and "@" are
+     *     prepended and appended to each end to avoid bounds checking (they must be different!).
+     * </p>
      * @param str input string to be processed
      * @return processed string with "#"'s
      */

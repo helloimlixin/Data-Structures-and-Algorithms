@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="060b6149-a103-4d1f-ba30-53bf5521959c" name="Default Changelist" comment="Added Dynamic Programming Solution to the Longest Palindromic Substring Problem.">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,13 +55,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
+            <state relative-caret-position="903">
               <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -72,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1239">
-              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+            <state relative-caret-position="315">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -130,8 +128,8 @@
         <option value="$PROJECT_DIR$/src/Problem3_KadaneAlgorithm/KadaneAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java" />
         <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java" />
-        <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java" />
+        <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java" />
       </list>
     </option>
   </component>
@@ -242,7 +240,7 @@
       <workItem from="1568026102202" duration="595000" />
       <workItem from="1568026710151" duration="85000" />
       <workItem from="1568026800890" duration="130000" />
-      <workItem from="1568027100564" duration="16196000" />
+      <workItem from="1568027100564" duration="16656000" />
     </task>
     <task id="LOCAL-00001" summary="Added Rod Cutting Problem.">
       <created>1567538404826</created>
@@ -269,13 +267,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41975000" />
+    <option name="totallyTimeSpent" value="42435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22771673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22771673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +281,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32977587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991462" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -294,7 +292,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.33511207" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32977587" />
-      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32977587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -395,17 +393,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
+    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+        <state relative-caret-position="105">
+          <caret line="5" column="93" selection-start-line="5" selection-start-column="93" selection-end-line="5" selection-end-column="93" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java">
+    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        <state relative-caret-position="903">
+          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -416,10 +414,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="93" selection-start-line="5" selection-start-column="93" selection-end-line="5" selection-end-column="93" />
+        <state relative-caret-position="315">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
         </state>
       </provider>
     </entry>
