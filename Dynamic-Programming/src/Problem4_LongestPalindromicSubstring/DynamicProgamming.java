@@ -7,16 +7,17 @@ package Problem4_LongestPalindromicSubstring;
  */
 class DynamicProgamming {
     /**
-     * <h2>Main method for *Dynamic Programming Approach*.</h2>
-     * <p>
-     *     There are two base cases:
-     *     1. A single character is a palindrome.
-     *     2. Two identical characters is a palindrome.
-     * </p>
-     *
+     * <h2>Main method for <em>Dynamic Programming Approach</em>.</h2>
+     * There are two base cases:
+     * <ol type="1">
+     *     <li>A single character is a palindrome.</li>
+     *     <li>Two identical characters is a palindrome.</li>
+     * </ol>
      * <h2>Complexity Analysis</h2>
-     * - Time Complexity: O(n^2).
-     * - Space Complexity: O(n^2),
+     * <ul>
+     *     <li>Time Complexity: O(n^2).</li>
+     *     <li>Space Complexity: O(n^2).</li>
+     * </ul>
      * @param s input string to find the longest palindrome
      * @return the longest palindrome
      */

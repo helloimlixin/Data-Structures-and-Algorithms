@@ -7,16 +7,17 @@ package Problem4_LongestPalindromicSubstring;
  */
 class ExpandAroundCenter {
     /**
-     * <h2>Main method for *Expand Around Center Approach*.</h2>
-     * <p>
-     *     Note that here there are two cases depending on the length of the palindrome:
-     *     1. The length of the palindrome is odd, the center would be the middle character.
-     *     2. The length of the palindrome is even, the center would be the middle of the word (not lying on any character)!
-     * </p>
-     *
+     * <h2>Main method for <em>Expand Around Center Approach</em>.</h2>
+     * Note that here there are two cases depending on the length of the palindrome:
+     * <ol type="1">
+     *     <li>The length of the palindrome is odd, the center would be the middle character.</li>
+     *     <li>The length of the palindrome is even, the center would be the middle of the word (not lying on any character)!</li>
+     * </ol>
      * <h2>Complexity Analysis</h2>
-     * - Time Complexity: O(n^2).
-     * - Space Complexity: O(1).
+     * <ul>
+     *     <li>Time Complexity: O(n^2).</li>
+     *     <li>Space Complexity: O(1).</li>
+     * </ul>
      * @param s input string to find the longest palindrome
      * @return the longest palindrome
      */
@@ -42,10 +43,8 @@ class ExpandAroundCenter {
 
     /**
      * <h2>Method to expand around the given center.</h2>
-     * <p>
-     *     Use the `left` and `right` pointers to check if the palindrome exists and return the length of the longest palindrome found with given
-     *     center.
-     * </p>
+     * Use the <code>left</code> and <code>right</code> pointers to check if the palindrome exists and return the length of the longest palindrome found with given
+     * center.
      * @param str input string
      * @param left left pointer
      * @param right right pointer

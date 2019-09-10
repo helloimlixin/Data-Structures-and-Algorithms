@@ -3,9 +3,60 @@
   <component name="ChangeListManager">
     <list default="true" id="060b6149-a103-4d1f-ba30-53bf5521959c" name="Default Changelist" comment="Added Dynamic Programming Solution to the Longest Palindromic Substring Problem.">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xinli.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/xinli.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/BruteForceSolution.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/BruteForceSolution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/DynamicProgrammingSolution.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/DynamicProgrammingSolution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/class-use/BruteForceSolution.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/class-use/BruteForceSolution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/class-use/DynamicProgrammingSolution.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/class-use/DynamicProgrammingSolution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/class-use/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem1_RodCutting/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/class-use/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem2_SequenceMatching/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/KadaneAlgorithm.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/KadaneAlgorithm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/class-use/KadaneAlgorithm.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/class-use/KadaneAlgorithm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/class-use/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem3_KadaneAlgorithm/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/DynamicProgamming.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/DynamicProgamming.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/class-use/DynamicProgamming.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/class-use/DynamicProgamming.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/class-use/ExpandAroundCenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/class-use/ExpandAroundCenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/class-use/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/class-use/ManacherAlgorithm.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/class-use/ManacherAlgorithm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/Problem4_LongestPalindromicSubstring/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+            <state relative-caret-position="378">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -68,25 +119,25 @@
         <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="68" column="101" selection-start-line="68" selection-start-column="101" selection-end-line="68" selection-end-column="101" />
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1155">
+              <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="13" column="98" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
+            <state relative-caret-position="945">
+              <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -129,10 +180,10 @@
         <option value="$PROJECT_DIR$/src/Problem1_RodCutting/Main.java" />
         <option value="$PROJECT_DIR$/src/Problem3_KadaneAlgorithm/Main.java" />
         <option value="$PROJECT_DIR$/src/Problem3_KadaneAlgorithm/KadaneAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java" />
-        <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java" />
         <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java" />
         <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java" />
+        <option value="$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java" />
       </list>
     </option>
   </component>
@@ -243,7 +294,7 @@
       <workItem from="1568026102202" duration="595000" />
       <workItem from="1568026710151" duration="85000" />
       <workItem from="1568026800890" duration="130000" />
-      <workItem from="1568027100564" duration="19150000" />
+      <workItem from="1568027100564" duration="19783000" />
     </task>
     <task id="LOCAL-00001" summary="Added Rod Cutting Problem.">
       <created>1567538404826</created>
@@ -270,13 +321,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44929000" />
+    <option name="totallyTimeSpent" value="45562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10866911" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10866911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,7 +335,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32977587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32977587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991462" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,31 +447,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="13" column="98" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ManacherAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="68" column="101" selection-start-line="68" selection-start-column="101" selection-end-line="68" selection-end-column="101" />
+        <state relative-caret-position="1155">
+          <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
         </state>
       </provider>
     </entry>

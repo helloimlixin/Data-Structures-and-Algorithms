@@ -3,23 +3,21 @@ package Problem4_LongestPalindromicSubstring;
 import java.util.Arrays;
 
 /**
- * <h1>Class for Manacher's Algorithm</h1>
- * <p>
- *     This algorithm can be thought as an optimization over the `ExpandAroundCenter` algorithm, where
- *     we avoid checking the same palindrome over and over again as we do in the `ExpandAroundCenter` algorithm.
- * </p>
+ * <h1>Class for <em>Manacher's Algorithm</em></h1>
+ * This algorithm can be thought as an optimization over the <code>ExpandAroundCenter</code> algorithm, where
+ * we avoid checking the same palindrome over and over again as we do in the <code>ExpandAroundCenter</code> algorithm.
  * <h2>Complexity Analysis</h2>
- * - Time Complexity: O(n).
- * - Space Complexity: O(1).
+ * <ul>
+ *     <li>Time Complexity: O(n).</li>
+ *     <li>Space Complexity: O(1).</li>
+ * </ul>
  * @author xinli
  */
 class ManacherAlgorithm {
     /**
      * <h2>Main method for finding the longest palindromic substring.</h2>
-     * <p>
-     *     This method uses the concepts of mirror line and by expanding the right and left boundaries
-     *     to find the length of the longest palindromic substring and store the length in an array.
-     * </p>
+     * This method uses the concepts of mirror line and by expanding the right and left boundaries
+     * to find the length of the longest palindromic substring and store the length in an array.
      * @param s input string
      * @return the longest palindromic substring
      */
@@ -71,13 +69,10 @@ class ManacherAlgorithm {
     }
 
     /**
-     * <h2>Helper class for preprocessing.</h2>
-     * <p>
-     *     Preprocess string str into a char array.
-     *     For example, if `s = "abaabac"`, then the resulting char array `chars = "$#a#b#a#a#b#a#c#@"`,
-     *     where "#" are interleaved symbol to avoid even/odd-Length palindromes uniformly, while "$" and "@" are
-     *     prepended and appended to each end to avoid bounds checking (they must be different!).
-     * </p>
+     * <h2>Helper class for preprocessing.</h2>Preprocess string str into a char array.
+     * For example, if <code>s = "abaabac"</code>, then the resulting char array <code>chars = "$#a#b#a#a#b#a#c#@"</code>,
+     * where "#" are interleaved symbol to avoid even/odd-Length palindromes uniformly, while "$" and "@" are
+     * prepended and appended to each end to avoid bounds checking (they must be different!).
      * @param str input string to be processed
      * @return processed string with "#"'s
      */
