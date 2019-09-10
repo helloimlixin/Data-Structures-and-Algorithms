@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="359b6f55-5350-43a8-8e0b-6f3f7a0ba989" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Dynamic-Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/out/production/Dynamic-Programming/Problem4_LongestPalindromicSubstring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/out/production/Dynamic-Programming/Problem4_LongestPalindromicSubstring/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Divide-and-Conquer/target/" />
@@ -299,7 +297,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25457877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
