@@ -1,4 +1,4 @@
 package Problem2_MaximumSizeSquareSubMatrix;
 
-public class Main {
+public class DynamicProgrammingSolution {
 }

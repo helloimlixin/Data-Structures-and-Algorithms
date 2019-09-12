@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ca3efa-1960-492f-a041-979c90c4093a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/SinglyLinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/SinglyLinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixTranspose/InplaceTranspose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixTranspose/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixTranspose/StraightForwardTranspose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dynamic-Programming/.idea/dictionaries/xinli.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dynamic-Programming/.idea/dictionaries/xinli.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dynamic-Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dynamic-Programming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dynamic-Programming/src/Problem3_KadaneAlgorithm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dynamic-Programming/src/Problem3_KadaneAlgorithm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/BruteForceSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/PrintMatrixUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatrixManipulations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Section1_MatrixManipulations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MatrixManipulations/MatrixTranspose/InplaceTranspose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MatrixManipulations/MatrixTranspose/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MatrixManipulations/MatrixTranspose/StraightForwardTranspose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +26,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MatrixTranspose/StraightForwardTranspose.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem1_MatrixTranspose/StraightForwardTranspose.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
               <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
@@ -35,17 +34,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MatrixTranspose/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem1_MatrixTranspose/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MatrixTranspose/InplaceTranspose.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/BruteForceSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/PrintMatrixUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem1_MatrixTranspose/InplaceTranspose.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
               <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
@@ -71,13 +97,21 @@
         <option value="$PROJECT_DIR$/src/MatrixTranspose/StraightForwardTranspose.java" />
         <option value="$PROJECT_DIR$/src/MatrixTranspose/InplaceTranspose.java" />
         <option value="$PROJECT_DIR$/src/MatrixTranspose/Main.java" />
+        <option value="$PROJECT_DIR$/src/Tutorial1_MatrixTranspose/Main.java" />
+        <option value="$PROJECT_DIR$/src/Problem1_MatrixTranspose/Main.java" />
+        <option value="$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/maxSubSquare.java" />
+        <option value="$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/PrintMatrixUtil.java" />
+        <option value="$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/MaximumAllOneSubSquare.java" />
+        <option value="$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/Main.java" />
+        <option value="$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/BruteForceSolution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="850" />
-    <option name="width" value="830" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="840" />
+    <option name="y" value="23" />
+    <option name="width" value="840" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -102,6 +136,12 @@
               <item name="MatrixManipulations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MatrixManipulations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MatrixManipulations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem2_MaximumSizeSquareSubMatrix" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,6 +153,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -134,10 +175,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem2_MaximumSizeSquareSubMatrix.Main" />
+      <module name="Section1_MatrixManipulations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem2_MaximumSizeSquareSubMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem1_MatrixTranspose.Main" />
-      <module name="MatrixManipulations" />
+      <module name="Section1_MatrixManipulations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Problem1_MatrixTranspose.*" />
@@ -148,8 +202,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem2_MaximumSizeSquareSubMatrix.Main" />
+      <module name="Section1_MatrixManipulations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem2_MaximumSizeSquareSubMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -164,12 +232,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568265004997</updated>
-      <workItem from="1568265006318" duration="1563000" />
+      <workItem from="1568265006318" duration="5169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1563000" />
+    <option name="totallyTimeSpent" value="5169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="850" y="0" width="830" height="1050" extended-state="0" />
@@ -183,13 +251,13 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Messages" weight="0.32968238" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32968238" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -207,24 +275,52 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MatrixTranspose/StraightForwardTranspose.java">
+    <entry file="file://$PROJECT_DIR$/src/Problem1_MatrixTranspose/StraightForwardTranspose.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MatrixTranspose/InplaceTranspose.java">
+    <entry file="file://$PROJECT_DIR$/src/Problem1_MatrixTranspose/InplaceTranspose.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MatrixTranspose/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Problem1_MatrixTranspose/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/maxSubSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/PrintMatrixUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem2_MaximumSizeSquareSubMatrix/BruteForceSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
