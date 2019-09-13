@@ -7,7 +7,7 @@
 
 **Goal** Explore every intersection (vertex in graph) in the maze.
 
-**Algorithm: Tr$\H{e}$maux maze exploration**
+**Algorithm: Tr$\'{e}$maux maze exploration**
 
 ## Depth-First Search Properties
 
