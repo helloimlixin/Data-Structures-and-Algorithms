@@ -1,4 +1,4 @@
-package GraphSearchAlgorithms;
+package Subsection1_GraphSearchAlgorithms;
 
 import java.util.LinkedList;
 
