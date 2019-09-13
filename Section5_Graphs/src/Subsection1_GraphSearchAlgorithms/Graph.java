@@ -9,6 +9,7 @@ import java.util.LinkedList;
  */
 public class Graph {
     int V; // number of vertices
+    int E; // number of edges
     LinkedList<Integer>[] adjacencyLists; // adjacency lists
 
     /**
@@ -34,6 +35,7 @@ public class Graph {
     public void addEdge(int v1, int v2) {
         adjacencyLists[v1].add(v2);
         adjacencyLists[v2].add(v1);
+        E++;
     }
 
     /**
