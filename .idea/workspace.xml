@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="359b6f55-5350-43a8-8e0b-6f3f7a0ba989" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/.idea/dictionaries/xinli.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/.idea/dictionaries/xinli.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Programming/src/Problem3_KadaneAlgorithm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic-Programming/src/Problem3_KadaneAlgorithm/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section1_MatrixManipulations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Section1_MatrixManipulations/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Divide-and-Conquer/target/" />
@@ -20,24 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/Problem1_MaximumSubarray/MaximumSubarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem1_RodCutting/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -59,65 +38,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="26" selection-start-column="26" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/Problem2_MatrixMultiplication/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="336">
-                <caret line="16" selection-start-line="16" selection-end-line="16" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState>
-                  <previewPanelState version="2.8.4">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:286}}</jsState>
-                  </previewPanelState>
-                </markdownNavigatorState>
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/Problem1_MaximumSubarray/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -176,18 +96,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structures-and-Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic-Programming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data-Structures-and-Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -199,6 +113,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Course" />
     </panes>
   </component>
@@ -284,6 +199,7 @@
       <workItem from="1567855600541" duration="604000" />
       <workItem from="1568024894402" duration="231000" />
       <workItem from="1568051234777" duration="1808000" />
+      <workItem from="1568312736455" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1557614574437</created>
@@ -296,12 +212,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32599000" />
+    <option name="totallyTimeSpent" value="32605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25457877" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25763127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" weight="0.32957393" />
       <window_info id="Designer" order="3" />
@@ -339,75 +255,16 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/BruteForce.java" />
-    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/pom.xml" />
     <entry file="file://$PROJECT_DIR$/Graph-Algorithms/Depth-First-Search/Main.java" />
-    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/Problem1_MaximumSubarray/MaximumSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem1_RodCutting/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/Problem2_MatrixMultiplication/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="336">
-            <caret line="16" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState>
-              <previewPanelState version="2.8.4">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:286}}</jsState>
-              </previewPanelState>
-            </markdownNavigatorState>
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/Problem1_MaximumSubarray/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/Problem1_MaximumSubarray/MaximumSubarray.java" />
+    <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem1_RodCutting/Main.java" />
+    <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/DynamicProgamming.java" />
+    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/Problem2_MatrixMultiplication/Main.java" />
+    <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/ExpandAroundCenter.java" />
+    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/README.md" />
+    <entry file="file://$PROJECT_DIR$/Divide-and-Conquer/src/Problem1_MaximumSubarray/Main.java" />
+    <entry file="file://$PROJECT_DIR$/Dynamic-Programming/src/Problem4_LongestPalindromicSubstring/Main.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
