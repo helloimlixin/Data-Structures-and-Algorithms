@@ -4,4 +4,4 @@
 ***Proposition*** DFS makrs all vertices connected to $s$ in time proportional
 to the sum of their degrees.
 
-*Proof of Correctness*
+$\mathcal{Proof of Correctness}$
