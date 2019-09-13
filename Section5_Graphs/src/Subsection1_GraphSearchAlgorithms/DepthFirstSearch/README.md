@@ -28,6 +28,14 @@ Recursively visit all unmarked vertices w adjacent to v.
 - Find all vertices connected to a given source vertex.
 - Find a path between two vertices.
 
+## Design Pattern for Graph Processing
+
+**Design pattern** Decouple graph data type from graph processing.
+
+- Create a Graph object `graph`.
+- Pass `graph` to a graph-processing routine.
+- Query the graph-processing routine for information.
+
 ## Depth-First Search Properties
 
 ***Proposition*** DFS makrs all vertices connected to $s$ in time proportional
