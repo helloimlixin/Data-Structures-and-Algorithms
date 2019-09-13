@@ -8,8 +8,9 @@ import java.util.LinkedList;
  * @author xinli, based on the Princeton Algorithms Coursera Course
  */
 public class Graph {
-    private final int V; // number of vertices
-    private LinkedList<Integer>[] adjacencyLists; // adjacency lists
+    int V; // number of vertices
+    LinkedList<Integer>[] adjacencyLists; // adjacency lists
+
     /**
      * <h2>Class constructor with given number of vertices.</h2>
      * The graph will be constructed by creating an adjacency list for each node
@@ -23,6 +24,7 @@ public class Graph {
             adjacencyLists[v] = new LinkedList<>();
         }
     }
+
     /**
      * <h2>Method for adding an edge to the undirected graph.</h2>
      * The edges are added symmetrically for undirected graphs.
@@ -33,6 +35,7 @@ public class Graph {
         adjacencyLists[v1].add(v2);
         adjacencyLists[v2].add(v1);
     }
+
     /**
      * <h2>Method for getting the adjacent vertices for a vertex.</h2>
      * @param v target vertex
