@@ -8,9 +8,9 @@ import java.util.LinkedList;
  * @author xinli, based on the Princeton Algorithms Coursera Course
  */
 public class Graph {
-    int V; // number of vertices
-    int E; // number of edges
-    LinkedList<Integer>[] adjacencyLists; // adjacency lists
+    public int V; // number of vertices
+    public int E; // number of edges
+    public LinkedList<Integer>[] adjacencyLists; // adjacency lists
 
     /**
      * <h2>Class constructor with given number of vertices.</h2>

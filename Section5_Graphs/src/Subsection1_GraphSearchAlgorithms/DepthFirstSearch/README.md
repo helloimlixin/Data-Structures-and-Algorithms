@@ -12,7 +12,7 @@
 - Mark each visited intersection and each visited passage.
 - Retrace steps when no unvisited options.
 
-## Depth-First Search
+## Depth-First Search Intuition
 
 **Goal** Systematically search through a graph.
 
@@ -36,9 +36,22 @@ Recursively visit all unmarked vertices w adjacent to v.
 - Pass `graph` to a graph-processing routine.
 - Query the graph-processing routine for information.
 
+## Depth-First Search: Data Structures
+
+To visit a vertex $v$, we need to:
+- Mark $v$ as visited.
+- Recursively visit all the unmarked vertices adjacent to $v$
+
+**Data Structures**
+- An array `boolean[] visited = new boolean[V]` to store the information of
+the vertex traversal history.
+- An array `edgeTo[v]` to store the path information, for instance,
+`edgeTo[v1] = v2` means the graph search algorithm visits vertex `v1` via
+edge `v2-v1`.
+- A function call-stack for recursion.
 ## Depth-First Search Properties
 
-***Proposition*** DFS makrs all vertices connected to $s$ in time proportional
+***Proposition*** DFS marks all vertices connected to $s$ in time proportional
 to the sum of their degrees.
 
 **Proof of Correctness**

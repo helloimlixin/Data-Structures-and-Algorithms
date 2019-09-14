@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60782949-1823-4388-843e-a93ac4ca4abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xinli.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/Graph.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../algs4-data/algs4-data/tinyG.txt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -55,6 +61,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Subsection1_GraphSearchAlgorithms.DepthFirstSearch.Main" />
       <module name="Section5_Graphs" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\10417\Desktop\algs4-data\algs4-data\mediumG.txt 2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Subsection1_GraphSearchAlgorithms.DepthFirstSearch.*" />
@@ -88,11 +95,23 @@
       <workItem from="1568382149501" duration="33000" />
       <workItem from="1568382194731" duration="1000" />
       <workItem from="1568382258352" duration="1344000" />
+      <workItem from="1568401622301" duration="629000" />
+      <workItem from="1568431761632" duration="4953000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
