@@ -4,13 +4,7 @@
     <list default="true" id="60782949-1823-4388-843e-a93ac4ca4abb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/Graph.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/Graph.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +55,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Subsection1_GraphSearchAlgorithms.DepthFirstSearch.Main" />
       <module name="Section5_Graphs" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\10417\Desktop\algs4-data\algs4-data\mediumG.txt 2" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\10417\Desktop\algs4-data\algs4-data\tinyG.txt 2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Subsection1_GraphSearchAlgorithms.DepthFirstSearch.*" />
@@ -96,7 +90,7 @@
       <workItem from="1568382194731" duration="1000" />
       <workItem from="1568382258352" duration="1344000" />
       <workItem from="1568401622301" duration="629000" />
-      <workItem from="1568431761632" duration="4953000" />
+      <workItem from="1568431761632" duration="6902000" />
     </task>
     <servers />
   </component>

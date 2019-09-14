@@ -28,15 +28,10 @@ class DepthFirstSearch {
     }
 
     private void dfs(Graph graph, int src) {
-        if (visited[src]) {
-            LinkedList<Integer> neighbors = graph.neighbors(src);
-            for (int i = 0; i < neighbors.size(); i++) {
-                int v = neighbors.get(i);
-                return dfs(graph, v);
-            }
-        } else {
-            System.out.printf("Vertex %d visited.\n", src);
-            visited[src] = true;
+        visited[src] = true;
+        System.out.printf("Vertex %d visited.\n", src);
+        for (int v : graph.neighbors(src)) {
+            if (!visited[v]) dfs(graph, v);
         }
     }
 }
