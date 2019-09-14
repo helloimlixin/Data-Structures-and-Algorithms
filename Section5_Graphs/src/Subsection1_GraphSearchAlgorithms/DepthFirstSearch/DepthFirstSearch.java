@@ -2,8 +2,6 @@ package Subsection1_GraphSearchAlgorithms.DepthFirstSearch;
 
 import Subsection1_GraphSearchAlgorithms.Graph;
 
-import java.util.LinkedList;
-
 class DepthFirstSearch {
     private Graph graph;
     private int src;
