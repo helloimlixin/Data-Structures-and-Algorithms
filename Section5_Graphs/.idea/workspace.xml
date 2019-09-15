@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60782949-1823-4388-843e-a93ac4ca4abb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data/mediumG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/tinyG.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +32,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -54,7 +58,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Subsection1_GraphSearchAlgorithms.DepthFirstSearch.Main" />
       <module name="Section5_Graphs" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\10417\Desktop\algs4-data\algs4-data\tinyG.txt 2" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/Data/tinyG.txt 2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Subsection1_GraphSearchAlgorithms.DepthFirstSearch.*" />
@@ -118,6 +122,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="masterDetails">
     <states>

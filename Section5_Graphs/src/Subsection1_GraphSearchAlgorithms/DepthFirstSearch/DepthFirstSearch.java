@@ -22,14 +22,23 @@ class DepthFirstSearch {
     void traverse() {
         System.out.println("Performing Depth-First Search Graph Traversal...");
         dfs(graph, src);
-        System.out.println("Graph traversal completed.");
+        System.out.println("Graph traversal completed.\nThank you for your time!\n============================");
     }
 
+    /**
+     * Recursive implementation for Depth-First Search from source vertex <code>src</code>.
+     * @param graph target graph
+     * @param src initial source vertex
+     */
     private void dfs(Graph graph, int src) {
+        // Mark vertex src as visited.
         visited[src] = true;
         System.out.printf("Vertex %d visited.\n", src);
+        // Recursively visite all unmarked vertices adjacent to v.
         for (int v : graph.neighbors(src)) {
-            if (!visited[v]) dfs(graph, v);
+            if (!visited[v]) {
+                dfs(graph, v);
+            }
         }
     }
 }
