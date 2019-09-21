@@ -66,4 +66,4 @@ one.
 ![image](../../../image.png)
 
 **Proof of Running Time**
-Each vertex connected to $s$ is visited exactly once.
+- Each vertex connected to $s$ is visited exactly once.
