@@ -63,5 +63,7 @@ corresponds to an edge on a path from $s$ to $w$.
 last edge on a path from $s$ to $w$ that goes from a marked vertex to an unmarked
 one.
 
+![image](../../../image.png)
+
 **Proof of Running Time**
 Each vertex connected to $s$ is visited exactly once.
