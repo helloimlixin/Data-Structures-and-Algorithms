@@ -56,3 +56,37 @@ edge `v2-v1` for the first time.
 to the sum of their degrees. (plus time to initialize the `visited[]` array.
 
 **Proof of Correctness**
+- If $w$ marked, then $w$ connected to $s$, because the only way to mark a vertex
+is to get there through a sequence of recursive calls, and every recursive calls
+corresponds to an edge on a path from $s$ to $w$.
+- If $w$ connected to $s$, then $w$ marked. (If $w$ is unmarked, then consider
+last edge on a path from $s$ to $w$ that goes from a marked vertex to an unmarked
+one.
+
+![image](../../../image.png)
+
+**Proof of Running Time**
+- Each vertex connected to $s$ is visited exactly once.
+
+***Proposition*** After Depth-First Search, we can find vertices connected to $s$
+in constant time and can find a path to $s$ (if one exists) in time proportional
+to its length.
+
+**Proof**
+- `edgeTo[]` is parent-link representation of a tree rooted at $s$.
+
+![image_1](../../../image_1.png)
+
+```pseudocode
+public boolean hasPathTo(int v) {
+    return marked[v];
+}
+public Iterable<Integer> pathTo(int v) {
+    if (!hasPathTo(v)) return null;
+    Stack<Integer> path = new Stack<Integer>();
+    for (int i = v; i != s; i = edgeTo[i])
+        path.push(i);
+    path.push(s);
+    return path;
+}
+```

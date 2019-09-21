@@ -5,6 +5,7 @@ import Subsection1_GraphSearchAlgorithms.Graph;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
+import java.util.Stack;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
@@ -35,6 +36,23 @@ public class Main {
                 System.out.println("======================================");
                 DepthFirstSearch depthFirstSearch = new DepthFirstSearch(graph, src);
                 depthFirstSearch.traverse();
+                DepthFirstPaths depthFirstPaths = new DepthFirstPaths(graph, src);
+                for (int v = 0; v < graph.V; v++) {
+                    if (depthFirstPaths.hasPathTo(v)) {
+                        System.out.printf("%d to %d: ", src, v);
+                        Stack<Integer> paths = depthFirstPaths.pathTo(v);
+                        while (!paths.isEmpty()){
+                            int i = paths.pop();
+                            if (i == src)
+                                System.out.print(i);
+                            else
+                                System.out.print(" -> " + i);
+                        }
+                        System.out.println();
+                    } else {
+                        System.out.printf("%d to %d: NOT CONNECTED!\n", src, v);
+                    }
+                }
             }
         }
     }
