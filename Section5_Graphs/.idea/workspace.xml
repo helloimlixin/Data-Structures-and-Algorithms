@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60782949-1823-4388-843e-a93ac4ca4abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -23,6 +31,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1QmhZEJhk2Etpl6L5giWEkYVn9V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -91,6 +102,8 @@
       <workItem from="1568382258352" duration="1344000" />
       <workItem from="1568401622301" duration="629000" />
       <workItem from="1568431761632" duration="7767000" />
+      <workItem from="1568606359021" duration="1332000" />
+      <workItem from="1568884212932" duration="2168000" />
     </task>
     <servers />
   </component>

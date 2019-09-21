@@ -47,11 +47,12 @@ To visit a vertex $v$, we need to:
 the vertex traversal history.
 - An array `edgeTo[v]` to store the path information, for instance,
 `edgeTo[v1] = v2` means the graph search algorithm visits vertex `v1` via
-edge `v2-v1`.
+edge `v2-v1` for the first time.
 - A function call-stack for recursion.
+
 ## Depth-First Search Properties
 
-***Proposition*** DFS marks all vertices connected to $s$ in time proportional
-to the sum of their degrees.
+***Proposition*** DFS marks all vertices connected to `src` in time proportional
+to the sum of their degrees. (plus time to initialize the `visited[]` array.
 
 **Proof of Correctness**
