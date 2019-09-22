@@ -26,6 +26,7 @@ public class DepthFirstPaths {
         this.src = src;
         edgeTo = new int[graph.V];
         visited = new boolean[graph.V];
+        System.out.printf("Connected paths from source vertex %d: \n", src);
         dfs(graph, src);
     }
 

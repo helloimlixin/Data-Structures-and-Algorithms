@@ -53,6 +53,7 @@ public class Main {
                         System.out.printf("%d to %d: NOT CONNECTED!\n", src, v);
                     }
                 }
+                System.out.println("Graph traversal completed.\nThank you for your time!\n=========================");
             }
         }
     }

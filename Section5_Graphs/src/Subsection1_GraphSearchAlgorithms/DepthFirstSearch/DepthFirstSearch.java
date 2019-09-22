@@ -23,7 +23,7 @@ class DepthFirstSearch {
     void traverse() {
         System.out.println("Performing Depth-First Search Graph Traversal...");
         dfs(graph, src);
-        System.out.println("Graph traversal completed.\nThank you for your time!\n============================");
+        System.out.println("Graph traversal completed.\n==========================");
     }
 
     /**
