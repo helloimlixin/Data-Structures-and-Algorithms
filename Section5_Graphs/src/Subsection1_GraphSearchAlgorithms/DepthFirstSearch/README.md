@@ -31,11 +31,17 @@ that are visited and you visit the same node more than once, you may end up in a
 
 **Idea** Mimic maze exploration.
 
+**Recursive Implementation**
 ```pseudocode
-DFS (to visit a vertex v)
+DFS-recursive (G, v)
 Mark v as visited.
-Recursively visit all unmarked vertices w adjacent to v.
+// Recursively visit all unmarked vertices w adjacent to v.
+for all neighbors w of v in graph G:
+    if w is not visited (unmarked):
+        DFS-recursive(G, s)
 ```
+**Iterative Implementation**
+
 
 **Applications**
 - Find all vertices connected to a given source vertex.
