@@ -20,7 +20,7 @@ public class Graph {
     @SuppressWarnings("unchecked")
     public Graph(int V) {
         this.V = V;
-        adjacencyLists = new LinkedList[V];
+        adjacencyLists = (LinkedList<Integer>[]) new LinkedList[V];
         for (int v = 0; v < V; v++) {
             adjacencyLists[v] = new LinkedList<>();
         }

@@ -2,6 +2,14 @@ package Subsection1_GraphSearchAlgorithms.DepthFirstSearch;
 
 import Subsection1_GraphSearchAlgorithms.Graph;
 
+import java.util.Iterator;
+import java.util.Stack;
+
+/**
+ * <h1>Class for Depth First Search</h1>
+ *
+ * @author xinli
+ */
 class DepthFirstSearch {
     private Graph graph;
     private int src;
@@ -20,9 +28,13 @@ class DepthFirstSearch {
         this.src = src;
     }
 
+    /**
+     * Method for traversing the graph by calling the specific DFS implementation.
+     */
     void traverse() {
         System.out.println("Performing Depth-First Search Graph Traversal...");
-        dfs(graph, src);
+//        dfsRecursive(graph, src);
+        dfsIterative(graph, src);
         System.out.println("Graph traversal completed.\n==========================");
     }
 
@@ -31,15 +43,60 @@ class DepthFirstSearch {
      * @param graph target graph
      * @param src initial source vertex
      */
-    private void dfs(Graph graph, int src) {
+    private void dfsRecursive(Graph graph, int src) {
         // Mark vertex src as visited.
         visited[src] = true;
         System.out.printf("Vertex %d visited.\n", src);
         // Recursively visit all unmarked vertices adjacent to v.
         for (int v : graph.neighbors(src)) {
             if (!visited[v]) {
-                dfs(graph, v);
+                dfsRecursive(graph, v);
             }
+        }
+    }
+
+    /**
+     * Iterative implementation for Depth First Search using Stack.
+     * @param graph target graph
+     * @param src source vertex
+     */
+    private void dfsIterative(Graph graph, int src) {
+        Iterator<Integer>[] adj = (Iterator<Integer>[]) new Iterator[graph.V];
+        for (int i = 0; i < graph.V; i++) {
+            adj[i] = graph.neighbors(i).iterator();
+        }
+        // Initialize a stack data structure.
+        Stack<Integer> stack = new Stack<>();
+        // Push src vertex onto the stack
+        stack.push(src);
+        // Mark src as visited.
+        visited[src] = true;
+        System.out.printf("Vertex %d visited.\n", src);
+        while (!stack.isEmpty()) {
+            // Pop a vertex from the stack to visit next.
+            int v = stack.peek();
+            if (adj[v].hasNext()) {
+                int w = adj[v].next();
+                System.out.printf("Check %d\n", w);
+                if (!visited[w]) {
+                    visited[w] = true;
+                    stack.push(w);
+                    System.out.printf("Vertex %d visited.\n", w);
+                } else {
+                    System.out.println("Already visited.");
+                }
+            } else {
+                stack.pop();
+            }
+//            System.out.printf("Vertex %d visited.\n", v);
+//            // Push all neighbors of v in stack that are not visited.
+//            for (int w: graph.neighbors(v)) {
+//                if (!visited[w]) {
+//                    stack.push(w);
+//                    visited[w] = true;
+////                    System.out.printf("Vertex %d visited.\n", w);
+//                }
+//            }
         }
     }
 }

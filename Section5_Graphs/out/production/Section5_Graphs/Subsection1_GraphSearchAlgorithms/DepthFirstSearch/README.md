@@ -1,4 +1,17 @@
-# Depth-First Search
+# [Depth-First Search](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/)
+
+The DFS algorithm is a recursive algorithm that uses the idea of backtracking, which means that when
+you are moving forward and there are no more nodes along the current path, you move backwards *on the
+same path* to find nodes to traverse. All the nodes will be visited on the current path till all the
+unvisited nodes have been traversed after which the next path will be selected.
+
+This recursive nature of DFS can be implemented using *Stacks*:
+- Pick a starting node and push all its adjacent nodes into a stack.
+- Pop a node from the stack to select the next node to visit and push all its adjacent nodes into a
+stack
+- Repeat this process until the stack is empty. However, ensure that the nodes that are visited are
+marked. This will prevent you from visiting the same node more than once. If you do not mark the nodes
+that are visited and you visit the same node more than once, you may end up in an infinite loop.
 
 ## Motivation: Maze Exploration
 **Maze Graph**
@@ -18,10 +31,30 @@
 
 **Idea** Mimic maze exploration.
 
+**Recursive Implementation**
 ```pseudocode
-DFS (to visit a vertex v)
-Mark v as visited.
-Recursively visit all unmarked vertices w adjacent to v.
+DFS-recursive (G, src):
+    Mark src as visited.
+    // Recursively visit all unmarked vertices w adjacent to src.
+    for all neighbors v of src in graph G:
+        if v is not visited (unmarked):
+            DFS-recursive(G, src)
+```
+**Iterative Implementation**
+```pseudocode
+DFS-iterative(G, src):
+    let S be a stack
+    S.push(src) // inserting src onto the stack
+    mark src as visited
+    while (!S.isEmpty()):
+        // Pop a vertex from the stack to visit in the next iteration.
+        v = S.top()
+        S.pop()
+        // Push all the neighbors of v in stack that are not visited
+        for all neighbors w of v in Graph G:
+            if w is not visited:
+                S.push(w)
+                mark w as visited
 ```
 
 **Applications**
@@ -89,4 +122,5 @@ public Iterable<Integer> pathTo(int v) {
     path.push(s);
     return path;
 ```
+
 
