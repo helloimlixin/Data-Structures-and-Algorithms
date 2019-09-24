@@ -33,15 +33,29 @@ that are visited and you visit the same node more than once, you may end up in a
 
 **Recursive Implementation**
 ```pseudocode
-DFS-recursive (G, v)
-Mark v as visited.
-// Recursively visit all unmarked vertices w adjacent to v.
-for all neighbors w of v in graph G:
-    if w is not visited (unmarked):
-        DFS-recursive(G, s)
+DFS-recursive (G, src):
+    Mark src as visited.
+    // Recursively visit all unmarked vertices w adjacent to src.
+    for all neighbors v of src in graph G:
+        if v is not visited (unmarked):
+            DFS-recursive(G, src)
 ```
 **Iterative Implementation**
-
+```pseudocode
+DFS-iterative(G, src):
+    let S be a stack
+    S.push(src) // inserting src onto the stack
+    mark src as visited
+    while (!S.isEmpty()):
+        // Pop a vertex from the stack to visit in the next iteration.
+        v = S.top()
+        S.pop()
+        // Push all the neighbors of v in stack that are not visited
+        for all neighbors w of v in Graph G:
+            if w is not visited:
+                S.push(w)
+                mark w as visited
+```
 
 **Applications**
 - Find all vertices connected to a given source vertex.
