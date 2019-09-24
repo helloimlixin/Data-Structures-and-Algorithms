@@ -4,10 +4,10 @@ import java.util.Arrays;
 
 /**
  * <h1>Class for Flood Fill Algorithm</h1>
- * Flood fill algorithm helps in visiting each and every point in a given area. It determines the area connected to a given cell
- * in a multi-dimensional array. It can be simply modeled as a graph traversal problem and solved using DFS. Specifically, the given
- * area can be represented as a matrix and considering every cell of that matrix as a vertex that is connected to points near it (it
- * can be above, below, right, left, and diagonal, in total 8 possible positions).
+ * Flood fill algorithm helps in visiting each and every point in a given area. It determines the area connected to a
+ * given cell in a multi-dimensional array. It can be simply modeled as a graph traversal problem and solved using DFS.
+ * Specifically, the given area can be represented as a matrix and considering every cell of that matrix as a vertex
+ * that is connected to points near it (it can be above, below, right, left, and diagonal, in total 8 possible positions).
  */
 public class FloodFillAlgorithm {
     private static final int[] vertical = {-1, -1, -1, 0, 0, 1, 1, 1};
