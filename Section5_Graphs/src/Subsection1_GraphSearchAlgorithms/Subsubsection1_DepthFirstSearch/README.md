@@ -123,4 +123,16 @@ public Iterable<Integer> pathTo(int v) {
     return path;
 ```
 
+## Depth-First Search Application: [Flood Fill](https://www.hackerearth.com/practice/algorithms/graphs/flood-fill-algorithm/tutorial/)
+
+**Challenge:** Flood fill (Photoshop's Magic Wand)
+
+**Assumptions:** Picture has millions to billions of pixels.
+
+***Solution:*** Build a *grid graph*:
+- Vertex: pixel
+- Edge: between two adjacent pixels
+- Blob: all pixels connected to the given pixel
+
+
 

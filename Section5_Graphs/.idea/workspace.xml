@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="60782949-1823-4388-843e-a93ac4ca4abb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section5_Graphs/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/DepthFirstSearch/DepthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/Subsubsection1_DepthFirstSearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subsection1_GraphSearchAlgorithms/Subsubsection1_DepthFirstSearch/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,7 @@
       <workItem from="1568606359021" duration="1332000" />
       <workItem from="1568884212932" duration="14501000" />
       <workItem from="1569286705963" duration="19000" />
-      <workItem from="1569286747806" duration="5418000" />
+      <workItem from="1569286747806" duration="6911000" />
     </task>
     <servers />
   </component>
