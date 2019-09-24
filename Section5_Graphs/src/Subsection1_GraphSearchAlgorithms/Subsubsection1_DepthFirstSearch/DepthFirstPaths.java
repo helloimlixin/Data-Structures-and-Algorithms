@@ -1,9 +1,7 @@
-package Subsection1_GraphSearchAlgorithms.DepthFirstSearch;
+package Subsection1_GraphSearchAlgorithms.Subsubsection1_DepthFirstSearch;
 
 import Subsection1_GraphSearchAlgorithms.Graph;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 /**
@@ -33,7 +31,7 @@ public class DepthFirstPaths {
     /**
      * Recursive method for DFS from source vertex.
      * @param graph target graph
-     * @param src source vertex
+     * @param v source vertex
      */
     private void dfs(Graph graph, int v) {
         visited[v] = true;

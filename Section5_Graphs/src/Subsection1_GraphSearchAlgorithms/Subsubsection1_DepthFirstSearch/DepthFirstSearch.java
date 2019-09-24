@@ -1,4 +1,4 @@
-package Subsection1_GraphSearchAlgorithms.DepthFirstSearch;
+package Subsection1_GraphSearchAlgorithms.Subsubsection1_DepthFirstSearch;
 
 import Subsection1_GraphSearchAlgorithms.Graph;
 
@@ -33,13 +33,18 @@ class DepthFirstSearch {
      */
     void traverse() {
         System.out.println("Performing Depth-First Search Graph Traversal...");
-//        dfsRecursive(graph, src);
-        dfsIterative(graph, src);
+        dfsRecursive(graph, src);
+//        dfsIterative(graph, src);
         System.out.println("Graph traversal completed.\n==========================");
     }
 
     /**
      * Recursive implementation for Depth-First Search from source vertex <code>src</code>.
+     * <em>Complexity Analysis</em>
+     * <ul>
+     *     <li>Time Complexity: O(V + E)</li>
+     *     <li>Space Complexity: O(V)</li>
+     * </ul>
      * @param graph target graph
      * @param src initial source vertex
      */
@@ -57,6 +62,11 @@ class DepthFirstSearch {
 
     /**
      * Iterative implementation for Depth First Search using Stack.
+     * <em>Complexity Analysis</em>
+     * <ul>
+     *     <li>Time Complexity: O(V + E)</li>
+     *     <li>Space Complexity: O(V)</li>
+     * </ul>
      * @param graph target graph
      * @param src source vertex
      */
@@ -88,15 +98,6 @@ class DepthFirstSearch {
             } else {
                 stack.pop();
             }
-//            System.out.printf("Vertex %d visited.\n", v);
-//            // Push all neighbors of v in stack that are not visited.
-//            for (int w: graph.neighbors(v)) {
-//                if (!visited[w]) {
-//                    stack.push(w);
-//                    visited[w] = true;
-////                    System.out.printf("Vertex %d visited.\n", w);
-//                }
-//            }
         }
     }
 }

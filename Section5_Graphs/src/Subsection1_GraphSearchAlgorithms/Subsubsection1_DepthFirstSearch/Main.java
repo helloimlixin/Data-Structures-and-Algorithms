@@ -1,4 +1,4 @@
-package Subsection1_GraphSearchAlgorithms.DepthFirstSearch;
+package Subsection1_GraphSearchAlgorithms.Subsubsection1_DepthFirstSearch;
 
 import Subsection1_GraphSearchAlgorithms.Graph;
 
