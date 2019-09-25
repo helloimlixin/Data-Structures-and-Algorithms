@@ -28,4 +28,12 @@ Repeat until the queue is empty:
 
 **Intuition** BFS examines vertices in increasing distance from $s$.
 
+## Breadth-First Search Properties
 
+***Proposition*** BFS computes shortest paths (fewest number of edges) from $s$ to all other vertices in a graph in time
+proportional to $E + V$.
+
+**Proof of Correctness** Queue always consists of zero or more vertices of distance $k$ from $s$, followed by zero or
+more vertices of distance $k + 1$.
+
+![image_2](../../../image_2.png)
